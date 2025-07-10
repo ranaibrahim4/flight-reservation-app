@@ -1,5 +1,4 @@
 # flight-reservation-app
-# Flight Reservation App
 
 A simple desktop application for booking and managing flight reservations using Python and Tkinter.
 
