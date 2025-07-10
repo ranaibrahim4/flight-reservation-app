@@ -1,4 +1,4 @@
-# flight-reservation-app
+# Flight Reservation App
 
 A simple desktop application for booking and managing flight reservations using Python and Tkinter.
 
@@ -28,4 +28,4 @@ A simple desktop application for booking and managing flight reservations using 
 - Edit or delete reservations from the reservations list.
 
 ## Notes
-- All data is stored in `flights.db` in the app directory.
+- All data is stored in `flights.db` in the app directory. 
